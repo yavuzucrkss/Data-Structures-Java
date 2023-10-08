@@ -1,3 +1,5 @@
+package LinkedListBiDirectional;
+
 public class LinkedListBidirectional {
 
     NodeBiDirectional head = null;

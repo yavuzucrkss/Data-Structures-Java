@@ -1,3 +1,5 @@
+package LinkedListUniDirectional;
+
 import java.util.Scanner;
 
 public class ListStructureOneDirection {

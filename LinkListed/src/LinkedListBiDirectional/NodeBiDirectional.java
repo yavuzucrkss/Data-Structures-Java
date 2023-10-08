@@ -1,3 +1,5 @@
+package LinkedListBiDirectional;
+
 public class NodeBiDirectional {
     int number;
 
