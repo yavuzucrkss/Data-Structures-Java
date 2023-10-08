@@ -1,4 +1,11 @@
 public class NodeBiDirectional {
-    int data;
-    
+    int number;
+
+    NodeBiDirectional next;
+    NodeBiDirectional prev;
+
+    public NodeBiDirectional(int data){
+        this.number = data;
+    }
+
 }
